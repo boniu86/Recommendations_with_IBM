@@ -47,5 +47,5 @@ I built a reccomendation engine as instructed, but there are some improvements c
 
 Data: included in this repo
 
-Authors: [To the Notebbok] (https://github.com/boniu86/Recommendations_with_IBM/blob/main/Recommendations_with_IBM.ipynb)
+Authors: [To the Notebbok](https://github.com/boniu86/Recommendations_with_IBM/blob/main/Recommendations_with_IBM.ipynb)
 
