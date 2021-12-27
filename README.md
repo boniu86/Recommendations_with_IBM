@@ -21,7 +21,7 @@ Libraries:Pandas,Scikit-learn, numpy, matplotlib, progressbar,pickle
 
 Analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like.
 
-![dashboard screenshot](asset/pic1.png)
+![dashboard screenshot](img.png)
 
 Though the above dashboard is just showing the newest articles, you could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
 
